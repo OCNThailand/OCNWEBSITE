@@ -2,8 +2,11 @@
 
 
 Website Name: OCN Thailand
+
 File: Creative Commons Attribution-NonCommercial 4.0 International License
+
 Author URI: [srihari kapu](http://www.facebook.com/sriharikapuofficial)
+
 Licence URI:http://creativecommons.org/licenses/by-nc/4.0/
 
 We totally abide to the copyright laws and we feel that all the content should be open and can be modified freely by everyone. We allow the open sourcing of these web site files on github. 
